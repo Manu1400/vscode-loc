@@ -32,3 +32,24 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Compiled Java files
+*.class
+
+# macOS system files
+.DS_Store
+
+# Windows thumbnail cache
+thumbs.db
+
+# Vim swap files
+*.swp
+*.swo
+*~
+
+# Node modules (for language packs)
+node_modules/
+
+# Build outputs
+*.vsix
+dist/
